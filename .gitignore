@@ -1,0 +1,12 @@
+*.exe
+*.exe.manifest
+*.pdb
+*.pidb
+*.suo
+*.userprefs
+*.sln.docstates
+*.user
+bin
+obj
+local.properties
+build
