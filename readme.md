@@ -11,7 +11,7 @@ Usage
 
 There are 2 possible operations this library can do:
 
-* Parsing Templates
+**Parsing Templates**
 
 Parsing templates is designed to be quick and lightweight, ideal for populating
 a "Add New Project/Item" dialog box.  This only provides the included metadata
@@ -24,7 +24,7 @@ about the template, and cannot be used to create a template.
 	Console.WriteLine (template.Data.Name);
 	Console.WriteLine ("- " + template.Data.Description);
 
-* Creating new Projects/Items
+**Creating new Projects/Items**
 
 Once a template has been chosen, it can be Loaded so a new project or item
 can be created from it.
